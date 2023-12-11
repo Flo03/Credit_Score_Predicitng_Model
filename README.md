@@ -10,7 +10,7 @@ Welcome to the Credit Score Predicting Model! This Data Science project 🧪 aim
 - **Visualization:** 📊 Interactive graphs and charts to visualize the data and the results of the predictions.
 
 ## Installation
-To get started with this project, you need to have Python installed on your system 🐍. Additionally, some external libraries are required which can be found on the file.
+To get started with this project, you need to have Python installed on your system 🐍. Additionally, some external libraries are required which can be found on the file at the top.
 
 ## Usage
 To use this model, simply run the main script a file should be created.
